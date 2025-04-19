@@ -89,5 +89,3 @@ print(f'Tiene recargo de{recargo}')
 print(f'subtotal con recargos y bonificaciones{total_impuestos}')
 print(f'iva aplicado de {iva}')
 print(f'precio total final{total_final}')
-
-
